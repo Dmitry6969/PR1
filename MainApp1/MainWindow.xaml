@@ -11,15 +11,15 @@
             <MenuItem ToolTip="меню программы" Header="Программа" VerticalAlignment="Top" HorizontalAlignment="Left" Width="81" Height="26">
                 <MenuItem x:Name="info" Header="О программе" ToolTip="имя студента и задание" Click="info_Click" />
                 <MenuItem x:Name="exit" Header="Выйти" ToolTip="выйти и закрыть программу" Click="exit_Click"/>
-                
+
             </MenuItem>
         </Menu>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="укажите число элементов последовательности" VerticalAlignment="Top" Margin="52,22,0,0"/>
-        <TextBox x:Name="N" HorizontalAlignment="Left" Height="23" Margin="224,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="укажите число элементов последовательности" VerticalAlignment="Top" Margin="52,49,0,0"/>
+        <TextBox x:Name="N" HorizontalAlignment="Left" Height="23" Margin="224,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87"/>
         <TextBox x:Name="result" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="191,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBlock HorizontalAlignment="Left" Margin="164,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="сумма его чис"/><Run Text="ел"/><Run Text=" меньше 8"/></TextBlock>
-        <TextBox x:Name="chisla" IsReadOnly="True" HorizontalAlignment="Left" Height="196" Margin="508,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
-        <TextBlock HorizontalAlignment="Left" Margin="604,53,0,0" TextWrapping="Wrap" Text="сама последовательность" VerticalAlignment="Top"/>
+        <TextBox x:Name="chisla" IsReadOnly="True" HorizontalAlignment="Left" Height="196" Margin="507,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+        <TextBlock HorizontalAlignment="Left" Margin="603,49,0,0" TextWrapping="Wrap" Text="сама последовательность" VerticalAlignment="Top"/>
         <Button Content="рассчитать" HorizontalAlignment="Left" Margin="236,209,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>

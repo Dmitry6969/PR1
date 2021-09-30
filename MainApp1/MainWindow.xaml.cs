@@ -17,7 +17,7 @@ using Lib_9;
 namespace MainApp1
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для MainWindow.xam
     /// </summary>
     public partial class MainWindow : Window
     {
