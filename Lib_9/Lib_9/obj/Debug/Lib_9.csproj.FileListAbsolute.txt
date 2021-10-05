@@ -1,0 +1,10 @@
+C:\Users\исп-31\Desktop\парктосы\PR1\Lib_9\Lib_9\bin\Debug\Lib_9.dll
+C:\Users\исп-31\Desktop\парктосы\PR1\Lib_9\Lib_9\bin\Debug\Lib_9.pdb
+C:\Users\исп-31\Desktop\парктосы\PR1\Lib_9\Lib_9\obj\Debug\Lib_9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31\Desktop\парктосы\PR1\Lib_9\Lib_9\obj\Debug\Lib_9.dll
+C:\Users\исп-31\Desktop\парктосы\PR1\Lib_9\Lib_9\obj\Debug\Lib_9.pdb
+C:\Users\исп-31\Desktop\парктосы\PR1 Ермолаев\Lib_9\Lib_9\bin\Debug\Lib_9.dll
+C:\Users\исп-31\Desktop\парктосы\PR1 Ермолаев\Lib_9\Lib_9\bin\Debug\Lib_9.pdb
+C:\Users\исп-31\Desktop\парктосы\PR1 Ермолаев\Lib_9\Lib_9\obj\Debug\Lib_9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31\Desktop\парктосы\PR1 Ермолаев\Lib_9\Lib_9\obj\Debug\Lib_9.dll
+C:\Users\исп-31\Desktop\парктосы\PR1 Ермолаев\Lib_9\Lib_9\obj\Debug\Lib_9.pdb
